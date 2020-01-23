@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://improvetube.dev">ImproveTube</a></h1>
-<h3 align="center">Demo of A Modern Video Content Platform</h1>
+<h3 align="center">A Modern Video Content Platform</h1>
 <img src="https://i.imgur.com/OzFHp1C.png">
 
 
