@@ -43,7 +43,7 @@ ImproveTube is a total reimagining and rebuilding of YouTube's front-end in Reac
     
     
 
-## 🧑 [About the Author](#this-link-is-just-for-styling)
+## 🧑 [About Robert Louis](#this-link-is-just-for-styling)
 - I love writing code, and building applications from scratch. 
 - I'm formally educated in analytical philosophy, and self-taught in web development. 
 - Looking to create, and learn from other passionate individuals. 
