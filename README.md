@@ -30,7 +30,7 @@ ImproveTube is a total reimagining and rebuilding of YouTube's front-end in Reac
 - Lazy loading with vanilla JS
 - Optimizing a web app for mobile performance
 
-## ⚙️  [Deploy Locally:](#this-link-is-just-for-styling)
+## ⚙️  [How to Deploy It Locally:](#this-link-is-just-for-styling)
 
 		1. Clone or download this repository to your desktop (green button at the top)
 		2. Download and install node.js LTS or Current from https://nodejs.org/en/
