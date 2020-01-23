@@ -27,7 +27,7 @@ ImproveTube is a total reimagining and rebuilding of YouTube's front-end in Reac
 - Code splitting via react lazy/suspense
 - Intersection observer API for infinite scrolling
 - Lazy loading with vanilla JS
-- Optimizing for mobile performance
+- Optimizing a web app for mobile performance
 
 ## ⚙️  [Deploy Locally:](#this-link-is-just-for-styling)
 
