@@ -1,9 +1,11 @@
 <h1 align="center"><a href="https://improvetube.dev">ImproveTube</a></h1>
-<h3 align="center">Modern Video Content Platform</h1>
+<h3 align="center">Demo of A Modern Video Content Platform</h1>
 <img src="https://i.imgur.com/WbHj7f5.png">
 
 
 ## 💻 [About the Project](#this-link-is-just-for-styling)
+ImproveTube is a total reimagining and rebuilding of YouTube's front-end in React. Currently hosted on Netlify as a demo with user data generated from Pixabay's API.
+
 ### Features:
 - Comment System
 - Channels
@@ -13,12 +15,6 @@
 - Responsive to all screens
 - Lazy Loading
 - Performant (Lighthouse Audit: 97/100, PC & Mobile)
-
-### Tech:
-* **Framework:** React
-* **Styling:** SCSS 
-* **Hosting:** Netlify
-* **Text Editor:** Sublime Text 3
 
 ### What I Learned:
 - Building custom Webpack, babel, and eslint configs
@@ -36,7 +32,7 @@
 - Intersection observer API to create infinite scrolling
 - How to implement custom lazy loading using vanilla JS
 
-## ⚙️  [Instructions to Deploy Locally](#this-link-is-just-for-styling)
+## ⚙️  [Deploy Locally:](#this-link-is-just-for-styling)
 
 		1. Clone or download this repository to your desktop (green button at the top)
 		2. Download and install node.js LTS or Current from https://nodejs.org/en/
