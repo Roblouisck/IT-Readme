@@ -36,7 +36,7 @@ ImproveTube is a total reimagining and rebuilding of YouTube's front-end in Reac
 		3. Confirm node is installed by typing node -v in the command line
 		4. Create a pixabay account & acquire an API key
 		5. Create an .env file in the root directory with your API key
-    		6. Run npm start from console
+    	6. Run npm start from console
     
     
 
