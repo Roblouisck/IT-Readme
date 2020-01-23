@@ -1,5 +1,5 @@
-<h1 align="center">ImproveTube</h1>
-<h3 align="center">A Video Content Platform</h1>
+<h1 align="center"><a href="https://improvetube.dev">ImproveTube</a></h1>
+<h3 align="center">Modern Video Platform Concept</h1>
 <img src="https://i.imgur.com/WbHj7f5.png">
 
 ## 📜 [Information for New Users ](#this-link-is-just-for-styling)
