@@ -7,7 +7,7 @@
 ImproveTube is a total reimagining and rebuilding of YouTube's front-end in React. Currently hosted on Netlify as a demo with user data generated from Pixabay's API.
 
 ### Features:
-- Seamless Mobile Experience Baked In
+- Seamless Mobile UI Baked In
 - Comment System
 - Channels
 - Search functionality
