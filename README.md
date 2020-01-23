@@ -32,9 +32,9 @@ ImproveTube is a total reimagining and rebuilding of YouTube's front-end in Reac
 - React hooks (basic hooks + useCallback, and useRef)
 - Storing & pulling data from local storage
 
-## ⚙️  [How to Deploy It Locally:](#this-link-is-just-for-styling)
+## ⚙️  [Deploy ImproveTube Locally:](#this-link-is-just-for-styling)
 
-		1. Clone or download this repository to your desktop (green button at the top)
+		1. Clone or download this repository
 		2. Download and install node.js LTS or Current from https://nodejs.org/en/
 		3. Confirm node is installed by typing node -v in the command line
 		4. Create a pixabay account & acquire an API key
