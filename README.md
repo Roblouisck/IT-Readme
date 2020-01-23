@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://improvetube.dev">ImproveTube</a></h1>
 <h3 align="center">A Modern Video Content Platform</h1>
-<img src="https://i.imgur.com/OzFHp1C.png">
+<img src="https://i.imgur.com/Vflf4kB.png">
 
 
 ## 💻 [About the Project](#this-link-is-just-for-styling)
