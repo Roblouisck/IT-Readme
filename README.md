@@ -29,6 +29,8 @@ ImproveTube is a total reimagining and rebuilding of YouTube's front-end in Reac
 - Intersection observer API for infinite scrolling
 - Lazy loading with vanilla JS
 - Optimizing a web app for mobile performance
+- React hooks (basic hooks + useCallback, and useRef)
+- Storing & pulling data from local storage
 
 ## ⚙️  [How to Deploy It Locally:](#this-link-is-just-for-styling)
 
