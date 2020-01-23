@@ -8,13 +8,13 @@ ImproveTube is a total reimagining and rebuilding of YouTube's front-end in Reac
 
 ### Features:
 - Seamless Mobile UI Baked In
+- Real Playable Videos
 - Comment System
 - Channels
 - Search functionality
 - Infinite Scroll
 - Lazy Loading
 - Likes/Dislikes
-- Real Playable Videos
 
 ### What I Learned:
 - Building custom Webpack, babel, and eslint configs
