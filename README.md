@@ -1,9 +1,9 @@
 <h1 align="center"><a href="https://improvetube.dev">ImproveTube</a></h1>
-<h3 align="center">Modern Video Platform Concept</h1>
+<h3 align="center">Modern Video Content Platform</h1>
 <img src="https://i.imgur.com/WbHj7f5.png">
 
-## 📜 [Information for New Users ](#this-link-is-just-for-styling)
 
+## 💻 [About the Project](#this-link-is-just-for-styling)
 ### Features:
 - Comment System
 - Channels
@@ -14,24 +14,11 @@
 - Lazy Loading
 - Performant (Lighthouse Audit: 97/100, PC & Mobile)
 
-### Browser Compatibility
-Tested on Chrome and Firefox.
-
-## 💻 [About the Project](#this-link-is-just-for-styling)
-### Tech Stack:
+### Tech:
 * **Framework:** React
 * **Styling:** SCSS 
-* **Hosting:** Netlify (current) / Heroku (old version)
+* **Hosting:** Netlify
 * **Text Editor:** Sublime Text 3
-
-### Challenges:
-There were a lot of hurdles. 
-Challenge #1: Pixabay API data was incomplete, missing things like video titles, dislikes, dates, user avatars, and more.
-Challenge #2: Since the videos come from a third party API they  
-
-### Why This Project?:
-1. Because I love YouTube, and have always wanted to see what I could come up with if I decided to alter/remake it. 
-2. To learn hooks, scss
 
 ### What I Learned:
 - Building custom Webpack, babel, and eslint configs
