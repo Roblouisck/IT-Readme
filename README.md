@@ -7,30 +7,27 @@
 ImproveTube is a total reimagining and rebuilding of YouTube's front-end in React. Currently hosted on Netlify as a demo with user data generated from Pixabay's API.
 
 ### Features:
+- Seamless Mobile Experience Baked In
 - Comment System
 - Channels
-- Likes/Dislikes
 - Search functionality
-- Seamless Mobile Integration
-- Responsive to all screens
+- Infinite Scroll
 - Lazy Loading
-- Performant (Lighthouse Audit: 97/100, PC & Mobile)
+- Likes/Dislikes
 
 ### What I Learned:
 - Building custom Webpack, babel, and eslint configs
-- Sass & SCSS
-- Deploying to Heroku
 - Chrome dev tools 
-	* Interpretting data in the performance tab to evaluate bottlenecks
-	* Solving light house audit issues
-	* Remote debugging mobile devices via Remote devices tab
-	* Understanding Network tab information 
+	* Using performance profiling/network tab to analyze bottlenecks in data & source code
+	* Remote debugging of mobile devices via Remote devices tab
+	* Solving light house audit recommendations
 	* Using source maps
-- Using React Dev Tools to analyze state & react-router data
-- Using React Profiler's Flamegraph to snuff out unnecessary re-rendering
-- React lazy & suspense
-- Intersection observer API to create infinite scrolling
-- How to implement custom lazy loading using vanilla JS
+- React Dev Tools to analyze state & react-router data
+- React Profiler's Flamegraph to snuff out unnecessary re-rendering
+- Code splitting via react lazy/suspense
+- Intersection observer API for infinite scrolling
+- Lazy loading with vanilla JS
+- Optimizing for mobile performance
 
 ## ⚙️  [Deploy Locally:](#this-link-is-just-for-styling)
 
@@ -39,7 +36,7 @@ ImproveTube is a total reimagining and rebuilding of YouTube's front-end in Reac
 		3. Confirm node is installed by typing node -v in the command line
 		4. Create a pixabay account & acquire an API key
 		5. Create an .env file in the root directory with your API key
-    6. Run npm start from console
+    		6. Run npm start from console
     
     
 
