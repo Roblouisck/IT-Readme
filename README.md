@@ -51,5 +51,5 @@ ImproveTube is a total reimagining and rebuilding of YouTube's front-end in Reac
 
 <details>
   <summary>img</summary>
-<img src="https://i.imgur.com/cTMP7qW.jpg?">
+<img src="https://i.imgur.com/cTMP7qW.jpg?1">
 </details>
