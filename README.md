@@ -1,13 +1,13 @@
 <h1 align="center"><a href="https://improvetube.dev">ImproveTube</a></h1>
 <h3 align="center">A Modern Social Media Platform</h1>
-<img src="https://i.imgur.com/5siGEEy.png">
+<img src="https://i.imgur.com/v5TrwE1.png">
 
 
 ## 💻 [About the Project](#this-link-is-just-for-styling)
-ImproveTube is a total reimagining and rebuilding of YouTube's front-end in React. Currently hosted on Netlify as a demo with user data generated from Pixabay's API.
+ImproveTube is YouTube's front-end re-imagined, and built with react. Currently pulls video/users from Pixabay's API.
 
 ### Features:
-- Seamless Mobile UI Baked In
+- Native mobile UI
 - Real Playable Videos
 - Comment System
 - Channels
@@ -34,14 +34,15 @@ ImproveTube is a total reimagining and rebuilding of YouTube's front-end in Reac
 
 ## ⚙️  [Deploy ImproveTube Locally:](#this-link-is-just-for-styling)
 
-		1. Clone or download this repository
+		1. Clone or download the repository
 		2. Download and install node.js LTS or Current from https://nodejs.org/en/
 		3. Confirm node is installed by typing node -v in the command line
 		4. Create a pixabay account & acquire an API key
 		5. Create an .env file in the root directory with your API key
     	6. Run npm start from console
     
-    
+### Attributions
+
 
 ## 🧑 [About Robert Louis](#this-link-is-just-for-styling)
 - I love writing code, and building applications from scratch. 
