@@ -4,7 +4,7 @@
 
 
 ## 💻 [About the Project](#this-link-is-just-for-styling)
-ImproveTube is YouTube's front-end re-imagined, and built with react. Currently pulls video/users from Pixabay's API.
+Best described as YouTube's front-end rebuilt from scratch in React, with improved UX and design. In the future I plan to build my own social media site. This project was a sort of preview for me to see how much work would be involved in the future, and to hone my javascript/react skills.
 
 ### Features:
 - Native mobile UI
@@ -20,6 +20,7 @@ ImproveTube is YouTube's front-end re-imagined, and built with react. Currently 
 - Building custom Webpack, babel, and eslint configs
 - Chrome dev tools 
 	* Using performance profiling/network tab to analyze bottlenecks in data & source code
+	* Understanding JS Heap sizes, dom nodes, and how they impact performance differently on PC/mobile
 	* Remote debugging of mobile devices via Remote devices tab
 	* Solving light house audit recommendations
 	* Using source maps
@@ -27,7 +28,7 @@ ImproveTube is YouTube's front-end re-imagined, and built with react. Currently 
 - React Profiler's Flamegraph to snuff out unnecessary re-rendering
 - Code splitting via react lazy/suspense
 - Intersection observer API for infinite scrolling
-- Lazy loading with vanilla JS
+- Lazy loading & caching with vanilla JS
 - Optimizing a web app for mobile performance
 - React hooks (basic hooks + useCallback, and useRef)
 - Storing & pulling data from local storage
@@ -42,6 +43,7 @@ ImproveTube is YouTube's front-end re-imagined, and built with react. Currently 
     	6. Run npm start from console
     
 ### Attributions
+All images and videos are taken from the Pixabay API. Click the [purple question mark](https://i.imgur.com/UhkrGFB.png) the upper right hand corner of any video or image to be taken to the source on pixabay's website.
 
 
 ## 🧑 [About Robert Louis](#this-link-is-just-for-styling)
