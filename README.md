@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://improvetube.dev">ImproveTube</a></h1>
-<h3 align="center">Video Content Platform</h1>
+<h3 align="center">Video Content Platform Built in React</h1>
 <img src="https://i.imgur.com/v5TrwE1.png">
 
 
