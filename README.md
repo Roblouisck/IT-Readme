@@ -4,7 +4,7 @@
 
 
 ## 💻 [About the Project](#this-link-is-just-for-styling)
-Best described as YouTube's front-end rebuilt from scratch in React, with improved UX and design. Since this is just the front-end, for now all the users, videos, comments, and channels are pseudo-randomly generated. This project was a sort of preview for me to see how much work would be involved in building a real social media platform, and to hone my javascript/react skills.
+Best described as YouTube's front-end rebuilt from scratch in React, with a total redesign to improve UX. Since this is just the front-end, for now all the users, videos, comments, and channels are pseudo-randomly generated. This project was a sort of preview for me to see how much work would be involved in building a real social media platform, and to hone my javascript/react skills.
 
 ### Features:
 - Native mobile UI
